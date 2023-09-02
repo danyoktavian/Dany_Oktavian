@@ -1,8 +1,8 @@
 [
    {
       "ROLE":"ASSASSIN",
-      "NAMA":[{"Aamon 1.png", "Aamon 2.png"}],
-      "IMAGE":[{"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Aamon%201.png", "https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Aamon%202.png"}],
+      "NAMA":"Aamon 1.png",
+      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Aamon%201.png",
       "TAG":"tag",
       "URL":"url"
    },
