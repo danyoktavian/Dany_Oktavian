@@ -1,11 +1,10 @@
 [
    {
       "ROLE":"ASSASSIN",
-      "NAMA":"Aamon 1.png",
-      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Aamon%201.png",
+      "NAMA":[{"Aamon 1.png", "Aamon 2.png"}],
+      "IMAGE":[{"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Aamon%201.png", "https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Aamon%202.png"}],
       "TAG":"tag",
-      "URL":"url",
-      "GAMBAR":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Ixia%201.png"
+      "URL":"url"
    },
    {
       "ROLE":"ASSASSIN",
