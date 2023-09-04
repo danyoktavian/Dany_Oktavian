@@ -2094,13 +2094,6 @@
    },
    {
       "ROLE":"ASSASSIN",
-      "NAMA":"Gusion 10.png",
-      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Gusion%2010.png",
-      "TAG":"tag",
-      "URL":"url"
-   },
-   {
-      "ROLE":"ASSASSIN",
       "NAMA":"Gusion 11.png",
       "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Gusion%2011.png",
       "TAG":"tag",
@@ -2159,6 +2152,13 @@
       "ROLE":"ASSASSIN",
       "NAMA":"Gusion 9.png",
       "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Gusion%209.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+   {
+      "ROLE":"ASSASSIN",
+      "NAMA":"Gusion 10.png",
+      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Gusion%2010.png",
       "TAG":"tag",
       "URL":"url"
    },
