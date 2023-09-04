@@ -1562,13 +1562,6 @@
    },
    {
       "ROLE":"ASSASSIN",
-      "NAMA":"Fanny 10.png",
-      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Fanny%2010.png",
-      "TAG":"tag",
-      "URL":"url"
-   },
-   {
-      "ROLE":"ASSASSIN",
       "NAMA":"Fanny 2.png",
       "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Fanny%202.png",
       "TAG":"tag",
@@ -1620,6 +1613,13 @@
       "ROLE":"ASSASSIN",
       "NAMA":"Fanny 9.png",
       "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Fanny%209.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+   {
+      "ROLE":"ASSASSIN",
+      "NAMA":"Fanny 10.png",
+      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Fanny%2010.png",
       "TAG":"tag",
       "URL":"url"
    },
