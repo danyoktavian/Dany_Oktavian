@@ -3298,13 +3298,6 @@
    },
    {
       "ROLE":"MARKSMAN",
-      "NAMA":"Lesley 10.png",
-      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Lesley%2010.png",
-      "TAG":"tag",
-      "URL":"url"
-   },
-   {
-      "ROLE":"MARKSMAN",
       "NAMA":"Lesley 2.png",
       "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Lesley%202.png",
       "TAG":"tag",
@@ -3356,6 +3349,13 @@
       "ROLE":"MARKSMAN",
       "NAMA":"Lesley 9.png",
       "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Lesley%209.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+   {
+      "ROLE":"MARKSMAN",
+      "NAMA":"Lesley 10.png",
+      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Lesley%2010.png",
       "TAG":"tag",
       "URL":"url"
    },
