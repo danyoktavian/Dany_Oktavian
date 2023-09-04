@@ -3781,13 +3781,6 @@
    },
    {
       "ROLE":"MARKSMAN",
-      "NAMA":"Miya 10.png",
-      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Miya%2010.png",
-      "TAG":"tag",
-      "URL":"url"
-   },
-   {
-      "ROLE":"MARKSMAN",
       "NAMA":"Miya 11.png",
       "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Miya%2011.png",
       "TAG":"tag",
@@ -3846,6 +3839,13 @@
       "ROLE":"MARKSMAN",
       "NAMA":"Miya 9.png",
       "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Miya%209.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+   {
+      "ROLE":"MARKSMAN",
+      "NAMA":"Miya 10.png",
+      "IMAGE":"https://raw.githubusercontent.com/Ade-Firmansyah/MOD_MLBB/main/ALL_HERO_ML/Miya%2010.png",
       "TAG":"tag",
       "URL":"url"
    },
