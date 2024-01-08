@@ -917,28 +917,28 @@
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, TANK",
       "NAMA":"Carmilla 1 .jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Carmilla%201%20.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, TANK",
       "NAMA":"Carmilla 2.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Carmilla%202.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, TANK",
       "NAMA":"Carmilla 3.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Carmilla%203.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, TANK",
       "NAMA":"Carmilla 4.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Carmilla%204.jpg",
       "TAG":"tag",
@@ -1631,21 +1631,21 @@
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, MAGE",
       "NAMA":"Faramis 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Faramis%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, MAGE",
       "NAMA":"Faramis 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Faramis%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, MAGE",
       "NAMA":"Faramis 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Faramis%203.png",
       "TAG":"tag",
@@ -2625,49 +2625,49 @@
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Johnson 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Johnson%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Johnson 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Johnson%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Johnson 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Johnson%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Johnson 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Johnson%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Johnson 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Johnson%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Johnson 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Johnson%206.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Johnson 7.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Johnson%207.png",
       "TAG":"tag",
@@ -2793,42 +2793,42 @@
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, FIGHTER",
       "NAMA":"Kaja 1.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kaja%201.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, FIGHTER",
       "NAMA":"Kaja 2.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kaja%202.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, FIGHTER",
       "NAMA":"Kaja 3.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kaja%203.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, FIGHTER",
       "NAMA":"Kaja 4.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kaja%204.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, FIGHTER",
       "NAMA":"Kaja 5.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kaja%205.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, FIGHTER",
       "NAMA":"Kaja 6.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kaja%206.jpg",
       "TAG":"tag",
@@ -3416,35 +3416,35 @@
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Lolita 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lolita%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Lolita 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lolita%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Lolita 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lolita%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Lolita 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lolita%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Lolita 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lolita%205.png",
       "TAG":"tag",
@@ -3717,35 +3717,35 @@
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Minotaur 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Minotaur%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Minotaur 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Minotaur%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Minotaur 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Minotaur%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Minotaur 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Minotaur%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, SUPPORT",
       "NAMA":"Minotaur 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Minotaur%205.png",
       "TAG":"tag",
