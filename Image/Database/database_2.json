@@ -154,35 +154,35 @@
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, TANK",
       "NAMA":"Alice 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alice%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, TANK",
       "NAMA":"Alice 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alice%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, TANK",
       "NAMA":"Alice 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alice%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, TANK",
       "NAMA":"Alice 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alice%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, TANK",
       "NAMA":"Alice 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alice%205.png",
       "TAG":"tag",
@@ -609,35 +609,35 @@
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, MAGE",
       "NAMA":"Bane 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Bane%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, MAGE",
       "NAMA":"Bane 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Bane%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, MAGE",
       "NAMA":"Bane 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Bane%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, MAGE",
       "NAMA":"Bane 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Bane%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, MAGE",
       "NAMA":"Bane 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Bane%205.png",
       "TAG":"tag",
@@ -1400,56 +1400,56 @@
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, MAGE",
       "NAMA":"Esmeralda 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Esmeralda%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, MAGE",
       "NAMA":"Esmeralda 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Esmeralda%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, MAGE",
       "NAMA":"Esmeralda 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Esmeralda%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, MAGE",
       "NAMA":"Esmeralda 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Esmeralda%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, MAGE",
       "NAMA":"Esmeralda 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Esmeralda%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, MAGE",
       "NAMA":"Esmeralda 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Esmeralda%206.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, MAGE",
       "NAMA":"Esmeralda 7.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Esmeralda%207.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"TANK",
+      "ROLE":"TANK, MAGE",
       "NAMA":"Esmeralda 8.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Esmeralda%208.png",
       "TAG":"tag",
@@ -2688,21 +2688,21 @@
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, MAGE",
       "NAMA":"Julian 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Julian%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, MAGE",
       "NAMA":"Julian 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Julian%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, MAGE",
       "NAMA":"Julian 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Julian%203.png",
       "TAG":"tag",
@@ -3024,49 +3024,49 @@
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, MAGE",
       "NAMA":"Kimmy 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kimmy%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, MAGE",
       "NAMA":"Kimmy 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kimmy%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, MAGE",
       "NAMA":"Kimmy 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kimmy%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, MAGE",
       "NAMA":"Kimmy 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kimmy%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, MAGE",
       "NAMA":"Kimmy 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kimmy%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, MAGE",
       "NAMA":"Kimmy 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kimmy%206.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, MAGE",
       "NAMA":"Kimmy 7.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kimmy%207.png",
       "TAG":"tag",
