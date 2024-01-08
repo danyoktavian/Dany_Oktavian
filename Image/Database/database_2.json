@@ -1,6 +1,6 @@
 [
    {
-      "ROLE":"ASSASSIN, FIGHTER",
+      "ROLE":"ASSASSIN",
       "NAMA":"Aamon 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Aamon%201.png",
       "TAG":"tag",
@@ -84,14 +84,14 @@
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alrott 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Arlott%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alrott 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Arlott%202.png",
       "TAG":"tag",
@@ -231,70 +231,70 @@
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%206.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 7.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%207.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 8.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%208.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 9.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%209.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Alucard 10.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Alucard%2010.png",
       "TAG":"tag",
@@ -784,42 +784,42 @@
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, FIGHTER",
       "NAMA":"Benedetta 1.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Benedetta%201.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, FIGHTER",
       "NAMA":"Benedetta 2.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Benedetta%202.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, FIGHTER",
       "NAMA":"Benedetta 3.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Benedetta%203.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, FIGHTER",
       "NAMA":"Benedetta 4.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Benedetta%204.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, FIGHTER",
       "NAMA":"Benedetta 5.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Benedetta%205.jpg",
       "TAG":"tag",
       "URL":"url"
    },
       {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, FIGHTER",
       "NAMA":"Benedetta 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Benedetta%206.png",
       "TAG":"tag",
@@ -2296,42 +2296,42 @@
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Harley 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Harley%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Harley 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Harley%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Harley 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Harley%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Harley 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Harley%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Harley 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Harley%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Harley 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Harley%206.png",
       "TAG":"tag",
@@ -2345,7 +2345,7 @@
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Harley 8.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Harley%208.png",
       "TAG":"tag",
@@ -2709,28 +2709,28 @@
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Kadita 1.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kadita%201.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Kadita 2.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kadita%202.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Kadita 3.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kadita%203.jpg",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MAGE",
+      "ROLE":"MAGE, ASSASSIN",
       "NAMA":"Kadita 4.jpg",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Kadita%204.jpg",
       "TAG":"tag",
@@ -3290,70 +3290,70 @@
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%201.png",
       "TAG":"tag",
       "URL":"https://firebasestorage.googleapis.com/v0/b/dany-oktavian-fc2c6.appspot.com/o/Backup%2FLesley%2FAnnual%20Starlight%2FBackup%20Lesley%20All%20-%20Dany%20Oktavian.zip?alt=media&token=82c6df2e-7bc1-4b6d-83a6-9c40b7e14140"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%206.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 7.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%207.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 8.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%208.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 9.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%209.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Lesley 10.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Lesley%2010.png",
       "TAG":"tag",
@@ -3668,28 +3668,28 @@
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, ASSASSIN",
       "NAMA":"Mathilda 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Mathilda%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, ASSASSIN",
       "NAMA":"Mathilda 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Mathilda%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, ASSASSIN",
       "NAMA":"Mathilda 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Mathilda%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"SUPPORT",
+      "ROLE":"SUPPORT, ASSASSIN",
       "NAMA":"Mathilda 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Mathilda%204.png",
       "TAG":"tag",
@@ -4102,42 +4102,42 @@
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Paquito 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Paquito%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Paquito 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Paquito%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Paquito 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Paquito%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Paquito 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Paquito%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Paquito 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Paquito%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Paquito 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Paquito%206.png",
       "TAG":"tag",
@@ -4480,63 +4480,63 @@
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, MAGE",
       "NAMA":"Selena 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Selena%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, MAGE",
       "NAMA":"Selena 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Selena%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, MAGE",
       "NAMA":"Selena 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Selena%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, MAGE",
       "NAMA":"Selena 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Selena%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, MAGE",
       "NAMA":"Selena 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Selena%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, MAGE",
       "NAMA":"Selena 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Selena%206.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, MAGE",
       "NAMA":"Selena 7.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Selena%207.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, MAGE",
       "NAMA":"Selena 8.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Selena%208.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"ASSASSIN",
+      "ROLE":"ASSASSIN, MAGE",
       "NAMA":"Selena 9.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Selena%209.png",
       "TAG":"tag",
@@ -5096,77 +5096,77 @@
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Yi Sun-shin 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yi%20Sun-shin%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Yi Sun-shin 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yi%20Sun-shin%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Yi Sun-shin 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yi%20Sun-shin%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Yi Sun-shin 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yi%20Sun-shin%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Yi Sun-shin 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yi%20Sun-shin%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Yi Sun-shin 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yi%20Sun-shin%206.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"MARKSMAN",
+      "ROLE":"MARKSMAN, ASSASSIN",
       "NAMA":"Yi Sun-shin 7.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yi%20Sun-shin%207.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Yin 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yin%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Yin 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yin%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Yin 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yin%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Yin 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Yin%204.png",
       "TAG":"tag",
@@ -5271,70 +5271,56 @@
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Zilong 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%201.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
-      "NAMA":"Zilong 10.png",
-      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%2010.png",
-      "TAG":"tag",
-      "URL":"url"
-   },
-   {
-      "ROLE":"FIGHTER",
-      "NAMA":"Zilong 11.png",
-      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%2011.png",
-      "TAG":"tag",
-      "URL":"url"
-   },
-   {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Zilong 2.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%202.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Zilong 3.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%203.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Zilong 4.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%204.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Zilong 5.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%205.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Zilong 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%206.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Zilong 7.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%207.png",
       "TAG":"tag",
       "URL":"url"
    },
    {
-      "ROLE":"FIGHTER",
+      "ROLE":"FIGHTER, ASSASSIN",
       "NAMA":"Zilong 8.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%208.png",
       "TAG":"tag",
@@ -5344,6 +5330,20 @@
       "ROLE":"FIGHTER",
       "NAMA":"Zilong 9.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%209.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+      {
+      "ROLE":"FIGHTER, ASSASSIN",
+      "NAMA":"Zilong 10.png",
+      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%2010.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+   {
+      "ROLE":"FIGHTER, ASSASSIN",
+      "NAMA":"Zilong 11.png",
+      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Zilong%2011.png",
       "TAG":"tag",
       "URL":"url"
    },
@@ -5358,6 +5358,20 @@
       "ROLE":"MAGE",
       "NAMA":"Novaria 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Novaria%201.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+   {
+      "ROLE":"ASSASSIN",
+      "NAMA":"Nolan 1.png",
+      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Nolan%201.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+   {
+      "ROLE":"ASSASSIN",
+      "NAMA":"Nolan 2.png",
+      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Nolan%202.png",
       "TAG":"tag",
       "URL":"url"
    }
