@@ -1054,21 +1054,7 @@
       "NAMA":"Chou 1.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Chou%201.png",
       "TAG":"tag",
-      "URL":"url"
-   },
-   {
-      "ROLE":"FIGHTER",
-      "NAMA":"Chou 10.png",
-      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Chou%2010.png",
-      "TAG":"tag",
-      "URL":"url"
-   },
-   {
-      "ROLE":"FIGHTER",
-      "NAMA":"Chou 11.png",
-      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Chou%2011.png",
-      "TAG":"tag",
-      "URL":"url"
+      "URL":"https://firebasestorage.googleapis.com/v0/b/dany-oktavian-fc2c6.appspot.com/o/Backup%2FChou%2FBackup%20Chou%20Kof.zip?alt=media&token=99f2406f-8323-4835-a8b1-47a384245c7a"
    },
    {
       "ROLE":"FIGHTER",
@@ -1103,7 +1089,7 @@
       "NAMA":"Chou 6.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Chou%206.png",
       "TAG":"tag",
-      "URL":"url"
+      "URL":"https://github.com/danyoktavian/Dany_Oktavian/raw/main/Image/Database/File%20Skin/Chou/Kof/Chou%20Kof%20Iori%20Yagami%20-%20Default%20+%20Logo.zip"
    },
    {
       "ROLE":"FIGHTER",
@@ -1123,6 +1109,20 @@
       "ROLE":"FIGHTER",
       "NAMA":"Chou 9.png",
       "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Chou%209.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+   {
+      "ROLE":"FIGHTER",
+      "NAMA":"Chou 10.png",
+      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Chou%2010.png",
+      "TAG":"tag",
+      "URL":"url"
+   },
+   {
+      "ROLE":"FIGHTER",
+      "NAMA":"Chou 11.png",
+      "IMAGE":"https://raw.githubusercontent.com/danyoktavian/Dany_Oktavian/main/Image/Database/Image/Chou%2011.png",
       "TAG":"tag",
       "URL":"url"
    },
